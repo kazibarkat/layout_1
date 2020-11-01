@@ -1,0 +1,63 @@
+*{margin:0; padding: 0;}
+.bdy{
+	width: 100%;
+	height: 700px;
+	background-color: red;
+}
+.header{
+
+height: 40px;
+width: 100%;
+overflow: hidden;
+}
+.left{
+    width: 50%;
+    height: 100%;
+    background: yellow;
+    float: left;
+}
+.right{
+    width: 50%;
+    height: 100%;
+    background: orange;
+    float: right;
+}
+.menu{
+    width: 100%;
+    height: 120px;
+    background: wheat;
+}
+.slider{
+    width: 100%;
+    height: 250px;
+    background: black;
+}
+.content{
+    width: 100%;
+    height: 250px;
+    background: greenyellow;
+    overflow: hidden;
+}
+.col1{
+    width: 20%;
+    height: 100%;
+    background: blue;
+    float: left;
+}
+.col2{
+    width: 60%;
+    height: 100%;
+    background: aliceblue;
+    float: left;
+}
+.col3{
+    width: 20%;
+    height: 100%;
+    background: blueviolet;
+    float: right;
+}
+.footer{
+	width: 100%;
+    height: 40px;
+    background: chartreuse;
+}
